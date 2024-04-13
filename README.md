@@ -23,6 +23,7 @@ Other assets used:
 
 ## How to use
 
+- composer install
 - Document root is inside public folder so virtual host needs to be created accordingly
 
 ## License
